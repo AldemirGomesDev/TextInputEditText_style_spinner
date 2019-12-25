@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TextInputEditText Style Spinner</string>
+    <string name="carga_select">Controle de recebimento de carga</string>
+
+    <string-array name="select_carga">
+        <item>Romaneio</item>
+        <item>Outro</item>
+    </string-array>
+
+</resources>
